@@ -1,4 +1,4 @@
-# clubhub-ics314f16.github.io
+# clubconnector.github.io
 
 Home/Landing Page
 <img class="ui huge image" src="/doc/home-landing.png">
