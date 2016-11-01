@@ -1,5 +1,5 @@
 {
-  "name": "Clubhub-ics314f16.GitHub.io",
+  "name": "Club hub",
   "tagline": "Club hub makes it easy for UH manoa students to find information on any of UH's 200+ clubs",
   "body": "# clubhub.github.io\r\n\r\nHome/Landing Page\r\n<img class=\"ui huge image\" src=\"/doc/home-landing.png\">\r\n\r\nBrowse Clubs Page\r\n<img class=\"ui huge image\" src=\"/doc/browse-clubs.png\">\r\n\r\nAdd Club Page\r\n<img class=\"ui huge image\" src=\"/doc/add-club.png\">\r\n\r\nEdit Club Page\r\n<img class=\"ui huge image\" src=\"/doc/edit-club.png\">\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
