@@ -1,4 +1,4 @@
-# clubconnector.github.io
+# ClubConnector
 
 Home/Landing Page
 <img class="ui huge image" src="/doc/home-landing.png">
