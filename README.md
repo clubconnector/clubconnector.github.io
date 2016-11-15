@@ -2,6 +2,8 @@
 
 Introduction. 
 
+Hi, and welcome to ClubConnector! The goal of this app is to make it easy for UH Manoa students to connect with clubs that they are interested in. 
+
 Installation.
 
 Usage. 
