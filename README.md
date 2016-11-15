@@ -12,10 +12,10 @@ Development:
 
 Contact Us:
 
-Bobby Figgs
-Keanu Robles
-Wyatt Bartlett
-Yohan Yang
+######Bobby Figgs
+######Keanu Robles
+######Wyatt Bartlett
+######Yohan Yang
 
 Home/Landing Page(Before Login)
 <img class="ui huge image" src="/doc/Before_Login_M1.jpg">
