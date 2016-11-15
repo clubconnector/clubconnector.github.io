@@ -1,5 +1,15 @@
 # clubconnector.github.io
 
+Introduction. 
+
+Installation.
+
+Usage. 
+
+Development. 
+
+Contact Us. 
+
 Home/Landing Page(Before Login)
 <img class="ui huge image" src="/doc/Before_Login_M1.jpg">
 
