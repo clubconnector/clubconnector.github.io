@@ -10,6 +10,8 @@ Usage:
 
 Development:
 
+Do you want to help us make ClubConnector better? Download meteor and fork our project on GitHub!
+
 Contact Us:
 
 ######Bobby Figgs
