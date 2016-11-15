@@ -1,16 +1,21 @@
 # clubconnector.github.io
 
-Introduction. 
+Introduction:
 
 Hi, and welcome to ClubConnector! The goal of this app is to make it easy for UH Manoa students to connect with clubs that they are interested in. 
 
-Installation.
+Installation:
 
-Usage. 
+Usage:
 
-Development. 
+Development:
 
-Contact Us. 
+Contact Us:
+
+Bobby Figgs
+Keanu Robles
+Wyatt Bartlett
+Yohan Yang
 
 Home/Landing Page(Before Login)
 <img class="ui huge image" src="/doc/Before_Login_M1.jpg">
