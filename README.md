@@ -26,7 +26,7 @@ Home/Landing Page(After Login)
 <img class="ui huge image" src="/doc/After_Login_M1.jpg">
 
 Browse Club Page
-<img class="ui huge image" src="/doc/Browse_Club_M2.jpg">
+<img class="ui huge image" src="/doc/Browse_Club_M2.JPG">
 
 Add Club Page
 <img class="ui huge image" src="/doc/Add_Club_M1.jpg">
