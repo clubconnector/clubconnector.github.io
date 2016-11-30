@@ -1,4 +1,4 @@
-# clubconnector.github.io
+# ClubConnector
 
 Introduction:
 
