@@ -61,15 +61,17 @@ Five University of Hawaii students and one alumni were recruited to use MoarChow
 + Accurate information for food items, prices, and hours 
 
 ### Constructive Criticism 
-+ Suggestion to remove the vendor descriptions on the map page to allow visibility of other vendors 
-+ The ability to comment with the rating was requested by multiple users 
-+ Search bar instead of a dropdown for searching for cusine  
-+ Overall negative feedback for the aesthetic appeal of the website aside from the landing page 
-+ Suggestion to have a picture of the story front for each vendor so people know what to look for when they reach to the location
++ Less white! More color!
++ The ability to see upcoming events for clubs was requested
++ Navigation back to the front page was requested
++ More info for clubs was also requested, including general descriptions, membership fees or requirements, and officer/member-wanted postings
++ We were also asked to add mooaaar clubs
 
 ## Response
 
 ### Implemented Changes
+
+In response to our initial user study we ...
 
 ### Future Changes
 
