@@ -20,7 +20,7 @@ Contact Us:
 ######Yohan Yang
 
 Home/Landing Page(Before Login)
-<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/tree/master/doc/Before_Login_M1.jpg">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Before_Login_M1.jpg">
 
 Home/Landing Page(After Login)
 <img class="ui huge image" src="/doc/After_Login_M1.jpg">
