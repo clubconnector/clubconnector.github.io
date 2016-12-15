@@ -72,7 +72,10 @@ We asked 5 current University of Hawaii students to review our website. They wer
 
 ### Implemented Changes
 
-In response to our initial user study we ...
+In response to our initial user study we:
+
+1. Made the title link back to the landing page
+2. Changed the aesthetic design of the site, including adding more color
 
 ### Future Changes
 
