@@ -76,6 +76,7 @@ In response to our initial user study we:
 
 1. Made the title link back to the landing page
 2. Changed the aesthetic design of the site, including adding more color
+3. Added a few moar clubs
 
 ### Future Changes
 
