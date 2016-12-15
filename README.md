@@ -17,7 +17,7 @@ When you first arrive at our website, you'll find two options:
 1. Browse through UH's 200+ clubs using our simple filters to find the perfect one for you.
 2. Log in with your UH username and password which lets you save a list of your favorite clubs and search filters, or manage your club page if you are a registered club admin.
 
-<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Before_Login_M1.jpg">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/home-landing-M3.png">
 
 
 #### Browse Club Page
