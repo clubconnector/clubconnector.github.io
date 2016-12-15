@@ -48,6 +48,32 @@ Users who are site admins also have the ability to add new clubs to the app.
 
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Add_Club_M1.jpg">
 
+---
+
+# Initial User Study
+Five University of Hawaii students and one alumni were recruited to use MoarChow. Though not in person, the recruiter had a one on one chat to cover the website's features. After viewing the website each student gave feedback about their experience.
+
+## Feedback
+
+### Positive Feedback
++ Creative title
++ Simple and clean layout allows for quick understanding of functionality 
++ Accurate information for food items, prices, and hours 
+
+### Constructive Criticism 
++ Suggestion to remove the vendor descriptions on the map page to allow visibility of other vendors 
++ The ability to comment with the rating was requested by multiple users 
++ Search bar instead of a dropdown for searching for cusine  
++ Overall negative feedback for the aesthetic appeal of the website aside from the landing page 
++ Suggestion to have a picture of the story front for each vendor so people know what to look for when they reach to the location
+
+## Response
+
+### Implemented Changes
+
+### Future Changes
+
+From this feedback we discovered for future development we need to focus on the aesthetic appeal of the website by including more photos, especially of food. The overall opinion of the website's functionality was overwhelming positive except for a few items. The initial study allowed us to view the website from an outside perspective and learn how we can become more aware of how users will interact with our future websites and applications.
 
 ---
 
