@@ -1,11 +1,9 @@
 # Hello, UH Manoa!
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/club.jpg">
 
-Hi, and welcome to ClubConnector! The goal of this app is to make it easy for UH Manoa students to connect with clubs that they are interested in. 
+Hi, and welcome to Club Connector. With over 200 clubs at UH Manoa, finding the right one for you can be challenging. The goal of this app is to make it easy for UH Manoa students to connect with clubs that they are interested in, so that they can have a richer and more fulfilling college experience.
 
 <a href="http://clubconnector.meteorapp.com/">Click here to try our app!</a>
-
-<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/club.jpg">
-Join a club and you could have as much fun as these people.
 
 ## Guided Tour
 
