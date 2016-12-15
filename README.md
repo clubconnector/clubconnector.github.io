@@ -56,8 +56,8 @@ Five University of Hawaii students and one alumni were recruited to use MoarChow
 ## Feedback
 
 ### Positive Feedback
-+ Creative title
-+ Simple and clean layout allows for quick understanding of functionality 
++ Clean, simple layout
++ Results pop up as soon as I start typing
 + Accurate information for food items, prices, and hours 
 
 ### Constructive Criticism 
