@@ -31,7 +31,7 @@ If you're logged in you can click the star in the bottom right of a club's box t
 #### Club Page
 Here on the club page you will find more detailed information about the club. You can also add this club as a favorite with the star in the upper right-hand corner, if you are logged in.
 
-<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/View_Club_M2.jpg">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/club-profile-M3.png">
 
 ---
 
