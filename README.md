@@ -1,6 +1,6 @@
-# clubconnector.github.io
+<a href="http://clubconnector.meteorapp.com/">Click here to try our app!</a>
 
-Introduction:
+# Intro
 
 Hi, and welcome to ClubConnector! The goal of this app is to make it easy for UH Manoa students to connect with clubs that they are interested in. 
 
@@ -36,3 +36,10 @@ Edit Club Page
 
 Profile Page
 <img class="ui huge image" src="/doc/Profile_Page_M1.jpg">
+
+
+## Developers
+ + [Bobby Figgs](https://rfiggs.github.io/)
+ + [Keanu Robles](https://keanur.github.io/)
+ + [Wyatt Bartlett](https://wyattbartlett.github.io/)
+ + [Yohan Yang](https://yohanyang.github.io/)
