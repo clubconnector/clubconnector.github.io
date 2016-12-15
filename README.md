@@ -5,26 +5,27 @@ Hi, and welcome to Club Connector. With over 200 clubs at UH Manoa, finding the 
 
 <a href="http://clubconnector.meteorapp.com/">Click here to try our app!</a>
 
+
 ## Guided Tour
+
 
 ### Home/Landing Page(Before Login)
 When you first arrive at our website, you'll find two options:
 
 1. Browse through UH's 200+ clubs using our simple filters to find the perfect one for you.
 2. Log in with your UH username and password which lets you save a list of your favorite clubs and search filters, or manage your club page if you are a registered club admin.
+
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Before_Login_M1.jpg">
 
 Browse Club Page
-<img class="ui huge image" src="/doc/Browse_Clubs_M2.JPG">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Browse_Clubs_M2.JPG">
 
 Add Club Page
-<img class="ui huge image" src="/doc/Add_Club_M1.jpg">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Add_Club_M1.jpg">
 
 Edit Club Page
-<img class="ui huge image" src="/doc/Edit_Club_M1.jpg">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Edit_Club_M1.jpg">
 
-Profile Page
-<img class="ui huge image" src="/doc/Profile_Page_M1.jpg">
 
 
 ## Developer Guide
