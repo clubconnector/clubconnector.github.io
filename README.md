@@ -25,7 +25,7 @@ Now you will be able to begin your search for the perfect club! Here on the Brow
 
 If you're logged in you can click the star in the bottom right of a club's box to add that club as a favorite. You can click on the view button to go to that club's page to see more info.
 
-<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Browse_Clubs_M3.JPG">
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Browse_Clubs_M3.JPG"> 
 
 
 #### Club Page
