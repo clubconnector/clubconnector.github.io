@@ -7,7 +7,7 @@ Hi, and welcome to Club Connector. With over 200 clubs at UH Manoa, finding the 
 
 ---
 
-## Guided Tour
+# Guided Tour
 
 ### User Pages
 
@@ -33,6 +33,7 @@ Here on the club page you will find more detailed information about the club. Yo
 
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/View_Club_M2.jpg">
 
+---
 
 ### Admin Pages
 
@@ -50,8 +51,17 @@ Users who are site admins also have the ability to add new clubs to the app.
 
 ---
 
-## Developer Guide
-Do you want to help us make ClubConnector better? Download meteor and fork our project on GitHub!
+# Developer Guide
+Do you want to help us make Club Connector better? Download meteor and fork our project on GitHub!
+
+1. Download and Install Meteor : https://www.meteor.com/
+2. Download and Install Node.js : https://nodejs.org/en/
+3. Fork the [Club Connector repo](https://github.com/clubconnector) on GitHub
+4. Navigate to the ..\clubconnector\app directory with your CLI of choice
+5. Invoke ```meteor npm install```
+6. Invoke ```meteor --settings ../config/settings.development.json```
+7. Check localhost:3000 to see if Club Connector is running
+8. Now you can help to build Club Connector!
 
 ## Check out our Progress
  + [Club Connector Github Main](https://github.com/clubconnector)
