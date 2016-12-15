@@ -17,7 +17,11 @@ When you first arrive at our website, you'll find two options:
 
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Before_Login_M1.jpg">
 
-Browse Club Page
+### Browse Club Page
+Now you will be able to begin your search for the perfect club! Here on the Browse page, you can select filters from the dropdown menu to find certain types of clubs, or just type something in the searchbox and our app will instantly show you any clubs with those words in their names.
+
+You can click on the view button to see more club info, and if you're logged in you can click the star in the bottom right of a club's box to add that club as a favorite.
+
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Browse_Clubs_M2.JPG">
 
 Add Club Page
