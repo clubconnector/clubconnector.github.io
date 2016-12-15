@@ -80,7 +80,7 @@ In response to our initial user study we:
 
 ### Future Changes
 
-From this feedback we discovered for future development we need to focus on the aesthetic appeal of the website by including more photos, especially of food. The overall opinion of the website's functionality was overwhelming positive except for a few items. The initial study allowed us to view the website from an outside perspective and learn how we can become more aware of how users will interact with our future websites and applications.
+In the future we would like to focus on helping clubs display a profile that they are proud of. Right now the add and edit club pages are a bit confusing. We would like to make it easier for them to keep their profiles up to date. We also want to add more information about the clubs, like member fees, and requirements.
 
 ---
 
