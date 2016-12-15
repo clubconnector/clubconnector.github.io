@@ -29,7 +29,7 @@ If you're logged in you can click the star in the bottom right of a club's box t
 
 
 #### Club Page
-Here on the club page you will find more detailed information about the club. You can also add this club as a favorite with the star in the upper right-hand corner, if you are logged in.
+Here on the club page you will find more detailed information about the club.
 
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/club-profile-M3.png">
 
@@ -51,14 +51,15 @@ Users who are site admins also have the ability to add new clubs to the app.
 ---
 
 # Initial User Study
-Five University of Hawaii students and one alumni were recruited to use MoarChow. Though not in person, the recruiter had a one on one chat to cover the website's features. After viewing the website each student gave feedback about their experience.
+We asked 5 current University of Hawaii students to review our website. They were given little information about the site other than that it was for finding clubs at UH. We then asked them to fill out a survey, and had a conversation about what they thought about the website.
 
 ## Feedback
 
 ### Positive Feedback
 + Clean, simple layout
++ Nice, simple search features
 + Results pop up as soon as I start typing
-+ Accurate information for food items, prices, and hours 
++ I like the overall theme. It matched with UHM.
 
 ### Constructive Criticism 
 + Less white! More color!
