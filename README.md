@@ -20,14 +20,19 @@ When you first arrive at our website, you'll find two options:
 ### Browse Club Page
 Now you will be able to begin your search for the perfect club! Here on the Browse page, you can select filters from the dropdown menu to find certain types of clubs, or just type something in the searchbox and our app will instantly show you any clubs with those words in their names.
 
-You can click on the view button to see more club info, and if you're logged in you can click the star in the bottom right of a club's box to add that club as a favorite.
+If you're logged in you can click the star in the bottom right of a club's box to add that club as a favorite. You can click on the view button to go to that club's page to see more info.
 
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Browse_Clubs_M2.JPG">
 
-Add Club Page
+### Club Page
+Here on the club page you will find more detailed information about the club. You can also add this club as a favorite with the star in the upper right-hand corner, if you are logged in.
+
+<img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/View_Club_M2.jpg">
+
+### Add Club Page
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Add_Club_M1.jpg">
 
-Edit Club Page
+### Edit Club Page
 <img class="ui huge image" src="https://raw.githubusercontent.com/clubconnector/clubconnector.github.io/master/doc/Edit_Club_M1.jpg">
 
 
